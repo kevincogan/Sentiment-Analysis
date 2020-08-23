@@ -13,10 +13,10 @@
     var ajaxurl = '//www.thejournal.ie/ajax.php';
     var stats_url = 'https://www.thejournal.ie/statsscript.php';
     var current_url = 'www.thejournal.ie/';
-    var load_time = '2020-08-23 16:27:14';
+    var load_time = '2020-08-23 17:05:20';
     var current_post_id = 0;
     var current_post_permalink = '';
-    var stats_key = "d22f476dcddc11e6fab8bfc0d2576fa2";
+    var stats_key = "d0a398b07e36ab4c915fc0b044cd9860";
     var wp_logged_in = false;
     var current_title = "";
 
@@ -33,7 +33,7 @@
 
     window.on_front = false;
                 window.authenticator = '';
-    window.login_expires = 1755962834;
+    window.login_expires = 1755965120;
     window.users_token = '';
 
                 window.fbAsyncInit = function() {
@@ -190,7 +190,7 @@ googletag.pubads().setTargeting('sitemode', 'default');
 googletag.pubads().setTargeting('site', 'thejournal');
 googletag.pubads().setTargeting('publication', 'thejournal');
 googletag.pubads().setTargeting('section', ["river","homepage"]);
-googletag.pubads().setTargeting('tiling', '6');
+googletag.pubads().setTargeting('tiling', '2');
 
 if ($("#js-retargeting").length > 0)
 {
@@ -628,26 +628,26 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3');
                                             </div>
                 </div>
                 <div class="secondary span-8">
-                                                <div class="post postSmall span-2 edit-post edit-post-1" id="post-5183382">
-                                <a href="https://www.thejournal.ie/ihf-golfgate-5183382-Aug2020/">
-                                    <img src="https://c2.thejournal.ie/media/2020/08/shutterstock_172231100-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="">
+                                                <div class="post postSmall span-2 edit-post edit-post-1" id="post-5183606">
+                                <a href="https://www.the42.ie/gaa-nphet-5183606-Aug2020/">
+                                    <img src="https://c1.thejournal.ie/media/2020/08/john-horan-29-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="GAA President John Horan. ">
                                 </a>
-                                                                <a href="https://www.thejournal.ie/golfgate/news/" class="tag">
-                                    Golfgate                                </a>
+                                                                <a href="https://www.thejournal.ie/request/news/" class="tag">
+                                    Request                                </a>
                                 <h4>
-                                    <a href="https://www.thejournal.ie/ihf-golfgate-5183382-Aug2020/">
-                                        Hotels federation says it had 'no role in organising or providing clearance' for controversial golf event                                     </a>
+                                    <a href="https://www.the42.ie/gaa-nphet-5183606-Aug2020/">
+                                        GAA 'not looking for conflict' in public statement to Ronan Glynn and NPHET, says president                                      </a>
                                 </h4>
                                                             </div>
-                                                    <div class="post postSmall span-2 edit-post edit-post-2" id="post-5181214">
-                                <a href="https://www.thejournal.ie/face-masks-co2-ph-balance-5181214-Aug2020/">
-                                    <img src="https://c3.thejournal.ie/media/2020/08/shutterstock_1683544594-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="">
+                                                    <div class="post postSmall span-2 edit-post edit-post-2" id="post-5183554">
+                                <a href="https://www.thejournal.ie/yellow-weather-warnings-5183554-Aug2020/">
+                                    <img src="https://c3.thejournal.ie/media/2020/08/met-eireann-1-2-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="">
                                 </a>
-                                                                <a href="https://www.thejournal.ie/carbon-dioxide/news/" class="tag">
-                                    Carbon Dioxide                                </a>
+                                                                <a href="https://www.thejournal.ie/met-eireann/news/" class="tag">
+                                    Met Éireann                                </a>
                                 <h4>
-                                    <a href="https://www.thejournal.ie/face-masks-co2-ph-balance-5181214-Aug2020/">
-                                        Debunked: No, wearing a face mask does not 'disrupt pH levels' and increase cancer risk                                     </a>
+                                    <a href="https://www.thejournal.ie/yellow-weather-warnings-5183554-Aug2020/">
+                                        Status Yellow warnings issued as 'intense rainfall' expected on Tuesday                                     </a>
                                 </h4>
                                                             </div>
                                                     <div class="post postSmall span-2 edit-post edit-post-3" id="post-5183239">
@@ -661,20 +661,68 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3');
                                         Recall: Coalition leaders agree Dáil should return early but opposition demands it comes back sooner                                     </a>
                                 </h4>
                                                             </div>
-                                                    <div class="post postSmall span-2 last edit-post edit-post-4" id="post-5183397">
-                                <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/">
-                                    <img src="https://c2.thejournal.ie/media/2020/08/count-center-rds-825-2-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="File photo. Counting at the RDS getting under way during last February's general election. ">
+                                                    <div class="post postSmall span-2 last edit-post edit-post-4" id="post-5183578">
+                                <a href="https://www.thejournal.ie/minsk-protests-5183578-Aug2020/">
+                                    <img src="https://c3.thejournal.ie/media/2020/08/belarus-protests-10-150x100.jpg" class="attachment-listings_0" width="150" height="100" alt="Demonstrators carry a huge historical flag of Belarus as thousands gather for a protest at the Independence square in Minsk">
                                 </a>
-                                                                <a href="https://www.thejournal.ie/your-say/news/" class="tag">
-                                    Your Say                                </a>
+                                                                <a href="https://www.thejournal.ie/minsk/news/" class="tag">
+                                    Minsk                                </a>
                                 <h4>
-                                    <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/">
-                                        Poll: Which party would you vote for if there was a general election tomorrow?                                     </a>
+                                    <a href="https://www.thejournal.ie/minsk-protests-5183578-Aug2020/">
+                                        Tens of thousands take to the streets in Belarus demanding the resignation of the president                                     </a>
                                 </h4>
                                                             </div>
                                         </div>
             </div>
-<div class="sectionSeparator"><h3>Today&#8217;s News</h3></div><div class="post post-https://www.thejournal.ie/james-murphy-missing-appeal-5183662-Aug2020/  post-https://jrnl.ie/5183662">
+<div class="sectionSeparator"><h3>Today&#8217;s News</h3></div><div class="post post-https://www.thejournal.ie/peru-nightclub-crush-coronavirus-deaths-5183676-Aug2020/  post-https://jrnl.ie/5183676">
+        <div class="img span-3" style="">
+                <a href="https://www.thejournal.ie/peru-nightclub-crush-coronavirus-deaths-5183676-Aug2020/" style="width:230px; height:150px;"><img
+            data-original="https://img2.thejournal.ie/article/5183676/river?version=5183681&width=230"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="At least 13 dead in crush at nightclub in Peru after police raid over Covid-19 violations" /><noscript><img
+            src="https://img2.thejournal.ie/article/5183676/river?version=5183681&width=230" class="attachment-river_0" width="230" height="150" alt="At least 13 dead in crush at nightclub in Peru after police raid over Covid-19 violations" /></noscript></a>
+
+                            <a href="https://www.thejournal.ie/stampede/news/" class="tag">Stampede</a>
+                        </div>
+        <div class="text span-5 last">
+        <h4> <a href="https://www.thejournal.ie/peru-nightclub-crush-coronavirus-deaths-5183676-Aug2020/">At least 13 dead in crush at nightclub in Peru after police raid over Covid-19 violations</a></h4>
+                    <div class="metadata">
+                <span class="date">
+                                        10 minutes ago                </span>
+                <span class="views">
+                    <span class="red-views icon iconViewVeryPopular"></span>1,533 Views                </span>
+                <a href="https://www.thejournal.ie/peru-nightclub-crush-coronavirus-deaths-5183676-Aug2020/#comments" title="Comment on At least 13 dead in crush at nightclub in Peru after police raid over Covid-19 violations">
+                    <span class="icon iconComment"></span> 1 Comment                </a>
+            </div>
+                <p class="excerpt excerpt_holder">
+                Six people, including three police officers, were injured.
+
+        </p>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fperu-nightclub-crush-coronavirus-deaths-5183676-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fvirus-outbreak-peru-disco-stampede-197x197.jpg&name=At+least+13+dead+in+crush+at+nightclub+in+Peru+after+police+raid+over+Covid-19+violations&description=Six+people%2C+including+three+police+officers%2C+were+injured.%0D%0A%0D%0A&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183676 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">2</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183676&text=At+least+13+dead+in+crush+at+nightclub+in+Peru+after+police+raid+over+Covid-19+violations+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183676"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+</div>
+<div class="post post-https://www.thejournal.ie/england-schools-coronavirus-outbreaks-5183586-Aug2020/  post-https://jrnl.ie/5183586">
+        <div class="img span-3" style="">
+                <a href="https://www.thejournal.ie/england-schools-coronavirus-outbreaks-5183586-Aug2020/" style="width:230px; height:150px;"><img
+            data-original="https://img2.thejournal.ie/article/5183586/river?version=5183593&width=230"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="30 Covid-19 outbreaks happened in schools in England after they reopened in June" /><noscript><img
+            src="https://img2.thejournal.ie/article/5183586/river?version=5183593&width=230" class="attachment-river_0" width="230" height="150" alt="30 Covid-19 outbreaks happened in schools in England after they reopened in June" /></noscript></a>
+
+                            <a href="https://www.thejournal.ie/england/news/" class="tag">England</a>
+                        </div>
+        <div class="text span-5 last">
+        <h4> <a href="https://www.thejournal.ie/england-schools-coronavirus-outbreaks-5183586-Aug2020/">30 Covid-19 outbreaks happened in schools in England after they reopened in June</a></h4>
+                    <div class="metadata">
+                <span class="date">
+                                        30 minutes ago                </span>
+                <span class="views">
+                    <span class="red-views icon iconViewVeryPopular"></span>6,262 Views                </span>
+                <a href="https://www.thejournal.ie/england-schools-coronavirus-outbreaks-5183586-Aug2020/#comments" title="Comment on 30 Covid-19 outbreaks happened in schools in England after they reopened in June">
+                    <span class="icon iconCommentPopular"></span> 10 Comments                </a>
+            </div>
+                <p class="excerpt excerpt_holder">
+                Public Health England said 121 cases were linked to the outbreaks, 30 in children and 91 in staff.        </p>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fengland-schools-coronavirus-outbreaks-5183586-Aug2020%2F&picture=https%3A%2F%2Fc3.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_1021963270-197x197.jpg&name=30+Covid-19+outbreaks+happened+in+schools+in+England+after+they+reopened+in+June&description=Public+Health+England+said+121+cases+were+linked+to+the+outbreaks%2C+30+in+children+and+91+in+staff.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183586 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">19</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183586&text=30+Covid-19+outbreaks+happened+in+schools+in+England+after+they+reopened+in+June+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183586"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+</div>
+<div class="post post-https://www.thejournal.ie/james-murphy-missing-appeal-5183662-Aug2020/  post-https://jrnl.ie/5183662">
         <div class="img span-3" style="">
                 <a href="https://www.thejournal.ie/james-murphy-missing-appeal-5183662-Aug2020/" style="width:230px; height:150px;"><img
             data-original="https://img2.thejournal.ie/article/5183662/river?version=5183669&width=230"
@@ -687,15 +735,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3');
         <h4> <a href="https://www.thejournal.ie/james-murphy-missing-appeal-5183662-Aug2020/">Appeal for information on 13-year-old boy missing from Dun Laoghaire since this morning</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        30 minutes ago                </span>
+                                        1 hour ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>5,203 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>10,795 Views                </span>
                 <a href="https://www.thejournal.ie/james-murphy-missing-appeal-5183662-Aug2020/#comments" title="Comment on Appeal for information on 13-year-old boy missing from Dun Laoghaire since this morning">
-                    <span class="icon iconComment"></span> 1 Comment                </a>
+                    <span class="icon iconComment"></span> 2 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 James Murphy went missing from his home in Dun Laoghaire in the early hours of this morning.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fjames-murphy-missing-appeal-5183662-Aug2020%2F&picture=https%3A%2F%2Fc3.thejournal.ie%2Fmedia%2F2020%2F08%2Fphotograph-james-murphy-197x197.jpg&name=Appeal+for+information+on+13-year-old+boy+missing+from+Dun+Laoghaire+since+this+morning&description=James+Murphy+went+missing+from+his+home+in+Dun+Laoghaire+in+the+early+hours+of+this+morning.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183662 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">4</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183662&text=Appeal+for+information+on+13-year-old+boy+missing+from+Dun+Laoghaire+since+this+morning+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183662"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fjames-murphy-missing-appeal-5183662-Aug2020%2F&picture=https%3A%2F%2Fc3.thejournal.ie%2Fmedia%2F2020%2F08%2Fphotograph-james-murphy-197x197.jpg&name=Appeal+for+information+on+13-year-old+boy+missing+from+Dun+Laoghaire+since+this+morning&description=James+Murphy+went+missing+from+his+home+in+Dun+Laoghaire+in+the+early+hours+of+this+morning.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183662 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">9</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183662&text=Appeal+for+information+on+13-year-old+boy+missing+from+Dun+Laoghaire+since+this+morning+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183662"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.the42.ie/gaa-nphet-5183606-Aug2020/  post-https://the42.ie/5183606">
         <div class="img span-3" style="">
@@ -710,64 +758,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3');
         <h4> <a href="https://www.the42.ie/gaa-nphet-5183606-Aug2020/">GAA 'not looking for conflict' in public statement to Ronan Glynn and NPHET, says president </a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        45 minutes ago                </span>
+                                        1 hour ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>5,589 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>9,646 Views                </span>
                 <a href="https://www.the42.ie/gaa-nphet-5183606-Aug2020/#comments" title="Comment on GAA 'not looking for conflict' in public statement to Ronan Glynn and NPHET, says president ">
-                    <span class="icon iconCommentPopular"></span> 11 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 25 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 The GAA this week asked public health experts to present the data behind a recommendation to play all games behind closed doors.         </p>
         <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.the42.ie%2Fgaa-nphet-5183606-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2Fjohn-horan-29-197x197.jpg&name=GAA+%27not+looking+for+conflict%27+in+public+statement+to+Ronan+Glynn+and+NPHET%2C+says+president+&description=The+GAA+this+week+asked+public+health+experts+to+present+the+data+behind+a+recommendation+to+play+all+games+behind+closed+doors.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183606 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fthe42.ie%2F5183606&text=GAA+%27not+looking+for+conflict%27+in+public+statement+to+Ronan+Glynn+and+NPHET%2C+says+president++%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183606"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
-<div class="post post-https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/  post-https://the42.ie/5183613">
-        <div class="img span-3" style="">
-        <span class="icon iconThe42">From The42</span>        <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/" style="width:230px; height:150px;"><img
-            data-original="https://img2.thejournal.ie/article/5183613/river?version=5183626&width=230"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Live: Connacht v Ulster, Pro14" /><noscript><img
-            src="https://img2.thejournal.ie/article/5183613/river?version=5183626&width=230" class="attachment-river_0" width="230" height="150" alt="Live: Connacht v Ulster, Pro14" /></noscript></a>
-
-                            <a href="https://www.thejournal.ie/liveblog/news/" class="tag">Liveblog</a>
-                        </div>
-        <div class="text span-5 last">
-        <h4> <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/">Live: Connacht v Ulster, Pro14</a></h4>
-                    <div class="metadata">
-                <span class="date">
-                                        54 minutes ago                </span>
-                <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>6,622 Views                </span>
-                <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/#comments" title="Comment on Live: Connacht v Ulster, Pro14">
-                    <span class="icon iconComment"></span> 1 Comment                </a>
-            </div>
-                <p class="excerpt excerpt_holder">
-                It&#8217;s time for provinces west and north to re-enter rugby and we&#8217;re going minute-by-minute.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.the42.ie%2Fconnacht-ylster-rugby-latest-live-score-5183613-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fbundee-aki-130-197x197.jpg&name=Live%3A+Connacht+v+Ulster%2C+Pro14&description=It%E2%80%99s+time+for+provinces+west+and+north+to+re-enter+rugby+and+we%E2%80%99re+going+minute-by-minute.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183613 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fthe42.ie%2F5183613&text=Live%3A+Connacht+v+Ulster%2C+Pro14+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183613"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
-</div>
-<div class="post post-https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/  post-https://jrnl.ie/5183612">
-        <div class="img span-3" style="">
-                <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/" style="width:230px; height:150px;"><img
-            data-original="https://img2.thejournal.ie/article/5183612/river?version=5183619&width=230"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Two men due in court over burglaries and theft of cars in Limerick City" /><noscript><img
-            src="https://img2.thejournal.ie/article/5183612/river?version=5183619&width=230" class="attachment-river_0" width="230" height="150" alt="Two men due in court over burglaries and theft of cars in Limerick City" /></noscript></a>
-
-                            <a href="https://www.thejournal.ie/limerick/news/" class="tag">Limerick</a>
-                        </div>
-        <div class="text span-5 last">
-        <h4> <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/">Two men due in court over burglaries and theft of cars in Limerick City</a></h4>
-                    <div class="metadata">
-                <span class="date">
-                                        1 hour ago                </span>
-                <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>3,072 Views                </span>
-                <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/#comments" title="Comment on Two men due in court over burglaries and theft of cars in Limerick City">
-                    <span class="icon iconComment"></span> No Comments                </a>
-            </div>
-                <p class="excerpt excerpt_holder">
-                Investigations are ongoing.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Ftwo-men-charged-burglaries-thefts-limerick-5183612-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Femergency-services-stock-122-197x197.jpg&name=Two+men+due+in+court+over+burglaries+and+theft+of+cars+in+Limerick+City&description=Investigations+are+ongoing.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183612 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183612&text=Two+men+due+in+court+over+burglaries+and+theft+of+cars+in+Limerick+City+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183612"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
-</div>
 <div style="position:absolute;">
-    <img src='/i.php?i=5179809&r=159819643421201&type=supplement&key=supplement_5179809&interaction=impression' />
+    <img src='/i.php?i=5179809&r=159819872013274&type=supplement&key=supplement_5179809&interaction=impression' />
 </div>
 <a href="https://www.thejournal.ie/river/daft-ie-property-magazine-2478243-Aug2020/" class="post river-unit--magazine">
     <div class="river-unit__image-container">
@@ -792,28 +794,28 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3');
         </div>
     </div>
 </a>
-<div class="post post-https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/  post-https://jrnl.ie/5183566">
+<div class="post post-https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/  post-https://the42.ie/5183613">
         <div class="img span-3" style="">
-                <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/" style="width:230px; height:150px;"><img
-            data-original="https://img2.thejournal.ie/article/5183566/river?version=5183568&width=230"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast" /><noscript><img
-            src="https://img2.thejournal.ie/article/5183566/river?version=5183568&width=230" class="attachment-river_0" width="230" height="150" alt="Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast" /></noscript></a>
+        <span class="icon iconThe42">From The42</span>        <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/" style="width:230px; height:150px;"><img
+            data-original="https://img2.thejournal.ie/article/5183613/river?version=5183626&width=230"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Live: Connacht v Ulster, Pro14" /><noscript><img
+            src="https://img2.thejournal.ie/article/5183613/river?version=5183626&width=230" class="attachment-river_0" width="230" height="150" alt="Live: Connacht v Ulster, Pro14" /></noscript></a>
 
-                            <a href="https://www.thejournal.ie/the-ilen/news/" class="tag">The Ilen</a>
+                            <a href="https://www.thejournal.ie/liveblog/news/" class="tag">Liveblog</a>
                         </div>
         <div class="text span-5 last">
-        <h4> <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/">Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast</a></h4>
+        <h4> <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/">Live: Connacht v Ulster, Pro14</a></h4>
                     <div class="metadata">
                 <span class="date">
                                         1 hour ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>6,001 Views                </span>
-                <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/#comments" title="Comment on Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast">
-                    <span class="icon iconCommentPopular"></span> 10 Comments                </a>
+                    <span class="red-views icon iconViewVeryPopular"></span>11,553 Views                </span>
+                <a href="https://www.the42.ie/connacht-ylster-rugby-latest-live-score-5183613-Aug2020/#comments" title="Comment on Live: Connacht v Ulster, Pro14">
+                    <span class="icon iconCommentPopular"></span> 6 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
-                The Ilen left Baltimore in west Cork earlier today.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fwooden-cargo-boat-5183566-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2F2-55122332-197x197.jpg&name=Ireland%27s+only+surviving+wooden+cargo+sailing+boat+resumes+deliveries+to+islands+off+the+south+and+west+coast&description=The+Ilen+left+Baltimore+in+west+Cork+earlier+today.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183566 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">14</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183566&text=Ireland%27s+only+surviving+wooden+cargo+sailing+boat+resumes+deliveries+to+islands+off+the+south+and+w+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183566"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+                It&#8217;s time for provinces west and north to re-enter rugby and we&#8217;re going minute-by-minute.        </p>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.the42.ie%2Fconnacht-ylster-rugby-latest-live-score-5183613-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fbundee-aki-130-197x197.jpg&name=Live%3A+Connacht+v+Ulster%2C+Pro14&description=It%E2%80%99s+time+for+provinces+west+and+north+to+re-enter+rugby+and+we%E2%80%99re+going+minute-by-minute.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183613 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fthe42.ie%2F5183613&text=Live%3A+Connacht+v+Ulster%2C+Pro14+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183613"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post mainStoryLeft spotlightHolder">
     <div class="spotlight" style="background: radial-gradient(circle at top right, rgba(255,255,255,0.5) 0%, #5b5b5b 48%), url('https://c3.thejournal.ie/media/2020/04/misinformation-thejournal-1-752x501.jpg') no-repeat top left; background-size: contain;">
@@ -888,6 +890,52 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
 </script>
 </div></center>
 </div>
+<div class="post post-https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/  post-https://jrnl.ie/5183612">
+        <div class="img span-3" style="">
+                <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/" style="width:230px; height:150px;"><img
+            data-original="https://img2.thejournal.ie/article/5183612/river?version=5183619&width=230"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Two men due in court over burglaries and theft of cars in Limerick City" /><noscript><img
+            src="https://img2.thejournal.ie/article/5183612/river?version=5183619&width=230" class="attachment-river_0" width="230" height="150" alt="Two men due in court over burglaries and theft of cars in Limerick City" /></noscript></a>
+
+                            <a href="https://www.thejournal.ie/limerick/news/" class="tag">Limerick</a>
+                        </div>
+        <div class="text span-5 last">
+        <h4> <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/">Two men due in court over burglaries and theft of cars in Limerick City</a></h4>
+                    <div class="metadata">
+                <span class="date">
+                                        1 hour ago                </span>
+                <span class="views">
+                    <span class="red-views icon iconViewVeryPopular"></span>4,478 Views                </span>
+                <a href="https://www.thejournal.ie/two-men-charged-burglaries-thefts-limerick-5183612-Aug2020/#comments" title="Comment on Two men due in court over burglaries and theft of cars in Limerick City">
+                    <span class="icon iconComment"></span> No Comments                </a>
+            </div>
+                <p class="excerpt excerpt_holder">
+                Investigations are ongoing.         </p>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Ftwo-men-charged-burglaries-thefts-limerick-5183612-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Femergency-services-stock-122-197x197.jpg&name=Two+men+due+in+court+over+burglaries+and+theft+of+cars+in+Limerick+City&description=Investigations+are+ongoing.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183612 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share</a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183612&text=Two+men+due+in+court+over+burglaries+and+theft+of+cars+in+Limerick+City+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183612"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+</div>
+<div class="post post-https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/  post-https://jrnl.ie/5183566">
+        <div class="img span-3" style="">
+                <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/" style="width:230px; height:150px;"><img
+            data-original="https://img2.thejournal.ie/article/5183566/river?version=5183568&width=230"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast" /><noscript><img
+            src="https://img2.thejournal.ie/article/5183566/river?version=5183568&width=230" class="attachment-river_0" width="230" height="150" alt="Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast" /></noscript></a>
+
+                            <a href="https://www.thejournal.ie/the-ilen/news/" class="tag">The Ilen</a>
+                        </div>
+        <div class="text span-5 last">
+        <h4> <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/">Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast</a></h4>
+                    <div class="metadata">
+                <span class="date">
+                                        1 hour ago                </span>
+                <span class="views">
+                    <span class="red-views icon iconViewVeryPopular"></span>7,980 Views                </span>
+                <a href="https://www.thejournal.ie/wooden-cargo-boat-5183566-Aug2020/#comments" title="Comment on Ireland's only surviving wooden cargo sailing boat resumes deliveries to islands off the south and west coast">
+                    <span class="icon iconCommentPopular"></span> 12 Comments                </a>
+            </div>
+                <p class="excerpt excerpt_holder">
+                The Ilen left Baltimore in west Cork earlier today.         </p>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fwooden-cargo-boat-5183566-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2F2-55122332-197x197.jpg&name=Ireland%27s+only+surviving+wooden+cargo+sailing+boat+resumes+deliveries+to+islands+off+the+south+and+west+coast&description=The+Ilen+left+Baltimore+in+west+Cork+earlier+today.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183566 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">17</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183566&text=Ireland%27s+only+surviving+wooden+cargo+sailing+boat+resumes+deliveries+to+islands+off+the+south+and+w+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183566"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+</div>
 <div class="post post-https://www.thejournal.ie/minsk-protests-5183578-Aug2020/  post-https://jrnl.ie/5183578">
         <div class="img span-3" style="">
                 <a href="https://www.thejournal.ie/minsk-protests-5183578-Aug2020/" style="width:230px; height:150px;"><img
@@ -901,11 +949,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/minsk-protests-5183578-Aug2020/">Tens of thousands take to the streets in Belarus demanding the resignation of the president</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        1 hour ago                </span>
+                                        2 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>4,584 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>5,658 Views                </span>
                 <a href="https://www.thejournal.ie/minsk-protests-5183578-Aug2020/#comments" title="Comment on Tens of thousands take to the streets in Belarus demanding the resignation of the president">
-                    <span class="icon iconCommentPopular"></span> 10 Comments                </a>
+                    <span class="icon iconCommentPopular"></span> 12 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Officials warned Belarusians not to participate in &#8220;illegal demonstrations&#8221;.         </p>
@@ -926,7 +974,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         2 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>9,355 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>10,612 Views                </span>
                 <a href="https://www.thejournal.ie/south-korea-restrictions-5183460-Aug2020/#comments" title="Comment on South Korea introduces fresh restrictions as global death toll from Covid-19 exceeds 800,000">
                     <span class="icon iconCommentPopular"></span> 21 Comments                </a>
             </div>
@@ -948,15 +996,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                     <div class="metadata">
                 <span class="date">
                                             Updated
-                                        2 hours ago                </span>
+                                        3 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>69,009 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>72,391 Views                </span>
                 <a href="https://www.thejournal.ie/phil-hogan-eu-commissioner-2-5183378-Aug2020/#comments" title="Comment on Golfgate: EU Commissioner Phil Hogan issues ‘fulsome and profound apology’">
-                    <span class="icon iconCommentVeryPopular"></span> 276 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 291 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Hogan said he spoke to Martin and Varadkar yesterday and has &#8220;listened carefully to their views&#8221;.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fphil-hogan-eu-commissioner-2-5183378-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fagricultural-conference-in-hanover-4-197x197.jpg&name=Golfgate%3A+EU+Commissioner+Phil+Hogan+issues+%E2%80%98fulsome+and+profound+apology%E2%80%99&description=Hogan+said+he+spoke+to+Martin+and+Varadkar+yesterday+and+has+%E2%80%9Clistened+carefully+to+their+views%E2%80%9D.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183378 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">102</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183378&text=Golfgate%3A+EU+Commissioner+Phil+Hogan+issues+%27fulsome+and+profound+apology%27+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183378"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fphil-hogan-eu-commissioner-2-5183378-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fagricultural-conference-in-hanover-4-197x197.jpg&name=Golfgate%3A+EU+Commissioner+Phil+Hogan+issues+%E2%80%98fulsome+and+profound+apology%E2%80%99&description=Hogan+said+he+spoke+to+Martin+and+Varadkar+yesterday+and+has+%E2%80%9Clistened+carefully+to+their+views%E2%80%9D.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183378 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">104</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183378&text=Golfgate%3A+EU+Commissioner+Phil+Hogan+issues+%27fulsome+and+profound+apology%27+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183378"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/yellow-weather-warnings-5183554-Aug2020/  post-https://jrnl.ie/5183554">
         <div class="img span-5" style="">
@@ -973,7 +1021,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         3 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>25,902 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>28,185 Views                </span>
                 <a href="https://www.thejournal.ie/yellow-weather-warnings-5183554-Aug2020/#comments" title="Comment on Status Yellow warnings issued as 'intense rainfall' expected on Tuesday">
                     <span class="icon iconCommentPopular"></span> 15 Comments                </a>
             </div>
@@ -996,7 +1044,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         4 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>27,619 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>29,307 Views                </span>
                 <a href="https://www.thejournal.ie/michelle-dunne-missing-5183512-Aug2020/#comments" title="Comment on Woman missing from Dublin found safe and well">
                     <span class="icon iconCommentPopular"></span> 5 Comments                </a>
             </div>
@@ -1017,15 +1065,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/readme/caelinn-hogan-the-castle-5178051-Aug2020/">Caelainn Hogan: 'This institution for ‘unmarried mothers’ is not part of some distant past - it closed in 2006'</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        4 hours ago                </span>
+                                        5 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>20,656 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>22,109 Views                </span>
                 <a href="https://www.thejournal.ie/readme/caelinn-hogan-the-castle-5178051-Aug2020/#comments" title="Comment on Caelainn Hogan: 'This institution for ‘unmarried mothers’ is not part of some distant past - it closed in 2006'">
-                    <span class="icon iconCommentPopular"></span> 24 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 29 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Writer Caelainn Hogan has accessed files that give an insight into life at a Donegal mother-and-baby home known as The Castle.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Freadme%2Fcaelinn-hogan-the-castle-5178051-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_768485083-197x197.jpg&name=Caelainn+Hogan%3A+%27This+institution+for+%E2%80%98unmarried+mothers%E2%80%99+is+not+part+of+some+distant+past+-+it+closed+in+2006%27&description=Writer+Caelainn+Hogan+has+accessed+files+that+give+an+insight+into+life+at+a+Donegal+mother-and-baby+home+known+as+The+Castle.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5178051 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">36</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5178051&text=Caelainn+Hogan%3A+%27This+institution+for+%27unmarried+mothers%27+is+not+part+of+some+distant+past+-+it++%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5178051"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Freadme%2Fcaelinn-hogan-the-castle-5178051-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_768485083-197x197.jpg&name=Caelainn+Hogan%3A+%27This+institution+for+%E2%80%98unmarried+mothers%E2%80%99+is+not+part+of+some+distant+past+-+it+closed+in+2006%27&description=Writer+Caelainn+Hogan+has+accessed+files+that+give+an+insight+into+life+at+a+Donegal+mother-and-baby+home+known+as+The+Castle.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5178051 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">37</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5178051&text=Caelainn+Hogan%3A+%27This+institution+for+%27unmarried+mothers%27+is+not+part+of+some+distant+past+-+it++%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5178051"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.the42.ie/munster-leinster-irish-rugby-return-5183333-Aug2020/  post-https://the42.ie/5183333">
         <div class="img span-3" style="">
@@ -1041,9 +1089,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                     <div class="metadata">
                 <span class="date">
                                             Updated
-                                        4 hours ago                </span>
+                                        5 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>25,127 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>26,214 Views                </span>
                 <a href="https://www.the42.ie/munster-leinster-irish-rugby-return-5183333-Aug2020/#comments" title="Comment on The return of Irish rugby was better than any of us could have hoped for">
                     <span class="icon iconCommentVeryPopular"></span> 33 Comments                </a>
             </div>
@@ -1065,15 +1113,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                     <div class="metadata">
                 <span class="date">
                                             Updated
-                                        4 hours ago                </span>
+                                        5 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>38,430 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>39,059 Views                </span>
                 <a href="https://www.thejournal.ie/dail-recall-5183239-Aug2020/#comments" title="Comment on Recall: Coalition leaders agree Dáil should return early but opposition demands it comes back sooner">
-                    <span class="icon iconCommentVeryPopular"></span> 92 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 93 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 TDs are expected to return two weeks ahead of schedule on 1 September.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fdail-recall-5183239-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fnew-taoiseach-303a9497-2-197x197.jpg&name=Recall%3A+Coalition+leaders+agree+D%C3%A1il+should+return+early+but+opposition+demands+it+comes+back+sooner&description=TDs+are+expected+to+return+two+weeks+ahead+of+schedule+on+1+September.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183239 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">52</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183239&text=Recall%3A+Coalition+leaders+agree+D%C3%A1il+should+return+early+but+opposition+demands+it+comes+back+soone+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183239"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fdail-recall-5183239-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fnew-taoiseach-303a9497-2-197x197.jpg&name=Recall%3A+Coalition+leaders+agree+D%C3%A1il+should+return+early+but+opposition+demands+it+comes+back+sooner&description=TDs+are+expected+to+return+two+weeks+ahead+of+schedule+on+1+September.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183239 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">54</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183239&text=Recall%3A+Coalition+leaders+agree+D%C3%A1il+should+return+early+but+opposition+demands+it+comes+back+soone+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183239"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/stolen-dogs-seized-5183470-Aug2020/  post-https://jrnl.ie/5183470">
         <div class="img span-3" style="">
@@ -1090,13 +1138,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         5 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>39,852 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>41,748 Views                </span>
                 <a href="https://www.thejournal.ie/stolen-dogs-seized-5183470-Aug2020/#comments" title="Comment on Gardaí seize 32 stolen dogs following searches in Swords">
-                    <span class="icon iconCommentVeryPopular"></span> 86 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 89 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Dog wardens said the monetary value of the dogs would be in excess of €120,000.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fstolen-dogs-seized-5183470-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2Fdownload-49-5-197x197.jpg&name=Garda%C3%AD+seize+32+stolen+dogs+following+searches+in+Swords&description=Dog+wardens+said+the+monetary+value+of+the+dogs+would+be+in+excess+of+%E2%82%AC120%2C000.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183470 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">603</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183470&text=Garda%C3%AD+seize+32+stolen+dogs+following+searches+in+Swords+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183470"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fstolen-dogs-seized-5183470-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2Fdownload-49-5-197x197.jpg&name=Garda%C3%AD+seize+32+stolen+dogs+following+searches+in+Swords&description=Dog+wardens+said+the+monetary+value+of+the+dogs+would+be+in+excess+of+%E2%82%AC120%2C000.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183470 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">614</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183470&text=Garda%C3%AD+seize+32+stolen+dogs+following+searches+in+Swords+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183470"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/new-ira-charged-5183439-Aug2020/  post-https://jrnl.ie/5183439">
         <div class="img span-3" style="">
@@ -1111,15 +1159,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/new-ira-charged-5183439-Aug2020/">Two women charged with terrorism offences in New IRA investigation</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        5 hours ago                </span>
+                                        6 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>13,135 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>13,758 Views                </span>
                 <a href="https://www.thejournal.ie/new-ira-charged-5183439-Aug2020/#comments" title="Comment on Two women charged with terrorism offences in New IRA investigation">
                     <span class="icon iconComment"></span> No Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Five people were arrested yesterday as part of Operation Arbacia.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fnew-ira-charged-5183439-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2F2-1555285-197x197.jpg&name=Two+women+charged+with+terrorism+offences+in+New+IRA+investigation&description=Five+people+were+arrested+yesterday+as+part+of+Operation+Arbacia.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183439 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">15</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183439&text=Two+women+charged+with+terrorism+offences+in+New+IRA+investigation+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183439"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fnew-ira-charged-5183439-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2F2-1555285-197x197.jpg&name=Two+women+charged+with+terrorism+offences+in+New+IRA+investigation&description=Five+people+were+arrested+yesterday+as+part+of+Operation+Arbacia.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183439 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">17</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183439&text=Two+women+charged+with+terrorism+offences+in+New+IRA+investigation+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183439"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/tiktok-trump-crackdown-5183421-Aug2020/  post-https://jrnl.ie/5183421">
         <div class="img span-3" style="">
@@ -1136,7 +1184,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         6 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>11,374 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>11,795 Views                </span>
                 <a href="https://www.thejournal.ie/tiktok-trump-crackdown-5183421-Aug2020/#comments" title="Comment on TikTok says it's going to sue the Trump administration over crackdown">
                     <span class="icon iconCommentPopular"></span> 10 Comments                </a>
             </div>
@@ -1157,9 +1205,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.the42.ie/niamh-fahey-interview-2-5182366-Aug2020/">The Irish Liverpool fan who grew up to captain them</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        6 hours ago                </span>
+                                        7 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>17,715 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>18,390 Views                </span>
                 <a href="https://www.the42.ie/niamh-fahey-interview-2-5182366-Aug2020/#comments" title="Comment on The Irish Liverpool fan who grew up to captain them">
                     <span class="icon iconCommentPopular"></span> 9 Comments                </a>
             </div>
@@ -1180,15 +1228,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/">Poll: Which party would you vote for if there was a general election tomorrow?</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        6 hours ago                </span>
+                                        7 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>160,721 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>168,682 Views                </span>
                 <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/#comments" title="Comment on Poll: Which party would you vote for if there was a general election tomorrow?">
-                    <span class="icon iconCommentVeryPopular"></span> 272 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 281 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 The Dáil has been recalled as the government faces significant pressure over the golfgate scandal.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpoll-election-party-5183397-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fcount-center-rds-825-2-197x197.jpg&name=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F&description=The+D%C3%A1il+has+been+recalled+as+the+government+faces+significant+pressure+over+the+golfgate+scandal.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183397 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">273</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183397&text=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183397"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpoll-election-party-5183397-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fcount-center-rds-825-2-197x197.jpg&name=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F&description=The+D%C3%A1il+has+been+recalled+as+the+government+faces+significant+pressure+over+the+golfgate+scandal.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183397 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">285</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183397&text=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183397"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/sitdown-sunday-longreads-179-5182090-Aug2020/  post-https://jrnl.ie/5182090">
         <div class="img span-3" style="">
@@ -1203,9 +1251,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/sitdown-sunday-longreads-179-5182090-Aug2020/">Sitdown Sunday: Inside Trump's battles with US intelligence agencies </a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        7 hours ago                </span>
+                                        8 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>20,796 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>21,410 Views                </span>
                 <a href="https://www.thejournal.ie/sitdown-sunday-longreads-179-5182090-Aug2020/#comments" title="Comment on Sitdown Sunday: Inside Trump's battles with US intelligence agencies ">
                     <span class="icon iconCommentPopular"></span> 8 Comments                </a>
             </div>
@@ -1226,11 +1274,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/nine-at-nine-53-5183388-Aug2020/">The 9 at 9: Sunday</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        7 hours ago                </span>
+                                        8 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>17,110 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>17,433 Views                </span>
                 <a href="https://www.thejournal.ie/nine-at-nine-53-5183388-Aug2020/#comments" title="Comment on The 9 at 9: Sunday">
-                    <span class="icon iconCommentPopular"></span> 12 Comments                </a>
+                    <span class="icon iconCommentPopular"></span> 13 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Here’s what’s making headlines this morning.        </p>
@@ -1249,9 +1297,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/carrigaline-road-crash-5183392-Aug2020/">Three people taken to hospital after two cars collide head-on in Cork</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        7 hours ago                </span>
+                                        8 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>34,519 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>35,024 Views                </span>
                 <a href="https://www.thejournal.ie/carrigaline-road-crash-5183392-Aug2020/#comments" title="Comment on Three people taken to hospital after two cars collide head-on in Cork">
                     <span class="icon iconComment"></span> 3 Comments                </a>
             </div>
@@ -1272,9 +1320,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/republican-convention-5181266-Aug2020/">Trump's convention: Donald, Donald Jr, Melania and gun-toting protest couple all pencilled in for Republicans</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        7 hours ago                </span>
+                                        8 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>24,385 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>24,810 Views                </span>
                 <a href="https://www.thejournal.ie/republican-convention-5181266-Aug2020/#comments" title="Comment on Trump's convention: Donald, Donald Jr, Melania and gun-toting protest couple all pencilled in for Republicans">
                     <span class="icon iconCommentVeryPopular"></span> 32 Comments                </a>
             </div>
@@ -1297,9 +1345,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         8 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>46,933 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>47,487 Views                </span>
                 <a href="https://www.thejournal.ie/ihf-golfgate-5183382-Aug2020/#comments" title="Comment on Hotels federation says it had 'no role in organising or providing clearance' for controversial golf event">
-                    <span class="icon iconCommentVeryPopular"></span> 59 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 61 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 The IHF said there was a &#8220;time-lag&#8221; from the government announcing new restrictions to the update guidance on how it affects industry.         </p>
@@ -1318,9 +1366,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.the42.ie/billy-scannell-biarritz-interview-5182919-Aug2020/">'I play rugby because I love the game, not just because my brothers play'</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        8 hours ago                </span>
+                                        9 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>32,676 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>33,327 Views                </span>
                 <a href="https://www.the42.ie/billy-scannell-biarritz-interview-5182919-Aug2020/#comments" title="Comment on 'I play rugby because I love the game, not just because my brothers play'">
                     <span class="icon iconComment"></span> 2 Comments                </a>
             </div>
@@ -1341,9 +1389,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/readme/lise-hand-journalism-matters-5183334-Aug2020/">Lise Hand: 'Journalism matters. And this week has been a crucial reminder of that'</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        8 hours ago                </span>
+                                        9 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>19,851 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>20,210 Views                </span>
                 <a href="https://www.thejournal.ie/readme/lise-hand-journalism-matters-5183334-Aug2020/#comments" title="Comment on Lise Hand: 'Journalism matters. And this week has been a crucial reminder of that'">
                     <span class="icon iconCommentVeryPopular"></span> 31 Comments                </a>
             </div>
@@ -1364,11 +1412,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/readme/us-elections-democrats-joe-kennedy-massachusetts-senate-5181853-Aug2020/">Opinion: Joe Kennedy fights for his family’s legacy in a 'nasty' campaign</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        8 hours ago                </span>
+                                        9 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>40,662 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>41,326 Views                </span>
                 <a href="https://www.thejournal.ie/readme/us-elections-democrats-joe-kennedy-massachusetts-senate-5181853-Aug2020/#comments" title="Comment on Opinion: Joe Kennedy fights for his family’s legacy in a 'nasty' campaign">
-                    <span class="icon iconCommentPopular"></span> 11 Comments                </a>
+                    <span class="icon iconCommentPopular"></span> 12 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 As Democrats rally against Trump, the race for Massachusetts&#8217; Senate seat is also worth watching, Larry Donnelly writes.        </p>
@@ -1389,13 +1437,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         9 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>37,323 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>37,886 Views                </span>
                 <a href="https://www.thejournal.ie/lions-mane-jellyfish-irish-beaches-increase-5180011-Aug2020/#comments" title="Comment on Lion's Mane jellyfish spotted on Irish beaches as annual numbers rise">
-                    <span class="icon iconCommentPopular"></span> 21 Comments                </a>
+                    <span class="icon iconCommentPopular"></span> 23 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 A sting from the Lion&#8217;s Mane jellyfish can cause nausea, sweating, cramps and headaches.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Flions-mane-jellyfish-irish-beaches-increase-5180011-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2F90352656-197x197.jpg&name=Lion%27s+Mane+jellyfish+spotted+on+Irish+beaches+as+annual+numbers+rise&description=A+sting+from+the+Lion%E2%80%99s+Mane+jellyfish+can+cause+nausea%2C+sweating%2C+cramps+and+headaches.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5180011 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">11</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5180011&text=Lion%27s+Mane+jellyfish+spotted+on+Irish+beaches+as+annual+numbers+rise+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5180011"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Flions-mane-jellyfish-irish-beaches-increase-5180011-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2F90352656-197x197.jpg&name=Lion%27s+Mane+jellyfish+spotted+on+Irish+beaches+as+annual+numbers+rise&description=A+sting+from+the+Lion%E2%80%99s+Mane+jellyfish+can+cause+nausea%2C+sweating%2C+cramps+and+headaches.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5180011 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">12</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5180011&text=Lion%27s+Mane+jellyfish+spotted+on+Irish+beaches+as+annual+numbers+rise+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5180011"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.thejournal.ie/face-masks-co2-ph-balance-5181214-Aug2020/  post-https://jrnl.ie/5181214">
         <div class="img span-3" style="">
@@ -1412,13 +1460,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
                 <span class="date">
                                         16 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>28,326 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>28,792 Views                </span>
                 <a href="https://www.thejournal.ie/face-masks-co2-ph-balance-5181214-Aug2020/#comments" title="Comment on Debunked: No, wearing a face mask does not 'disrupt pH levels' and increase cancer risk">
                     <span class="icon iconCommentVeryPopular"></span> 123 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 A widely shared Facebook post incorrectly claims that wearing a mask causes people to breathe in their own carbon dioxide.         </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fface-masks-co2-ph-balance-5181214-Aug2020%2F&picture=https%3A%2F%2Fc3.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_1683544594-197x197.jpg&name=Debunked%3A+No%2C+wearing+a+face+mask+does+not+%27disrupt+pH+levels%27+and+increase+cancer+risk&description=A+widely+shared+Facebook+post+incorrectly+claims+that+wearing+a+mask+causes+people+to+breathe+in+their+own+carbon+dioxide.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5181214 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">54</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5181214&text=Debunked%3A+No%2C+wearing+a+face+mask+does+not+%27disrupt+pH+levels%27+and+increase+cancer+risk+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5181214"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fface-masks-co2-ph-balance-5181214-Aug2020%2F&picture=https%3A%2F%2Fc3.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_1683544594-197x197.jpg&name=Debunked%3A+No%2C+wearing+a+face+mask+does+not+%27disrupt+pH+levels%27+and+increase+cancer+risk&description=A+widely+shared+Facebook+post+incorrectly+claims+that+wearing+a+mask+causes+people+to+breathe+in+their+own+carbon+dioxide.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5181214 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">55</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5181214&text=Debunked%3A+No%2C+wearing+a+face+mask+does+not+%27disrupt+pH+levels%27+and+increase+cancer+risk+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5181214"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="sectionSeparator"><h3>Yesterday&#8217;s News</h3></div><div class="post post-https://www.the42.ie/katie-taylor-v-delfine-persoon-6-5183232-Aug2020/  post-https://the42.ie/5183232">
         <div class="img span-3" style="">
@@ -1433,9 +1481,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.the42.ie/katie-taylor-v-delfine-persoon-6-5183232-Aug2020/">Katie Taylor defends her undisputed title in another entertaining nail-biter with Persoon</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        17 hours ago                </span>
+                                        18 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>106,978 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>107,573 Views                </span>
                 <a href="https://www.the42.ie/katie-taylor-v-delfine-persoon-6-5183232-Aug2020/#comments" title="Comment on Katie Taylor defends her undisputed title in another entertaining nail-biter with Persoon">
                     <span class="icon iconCommentVeryPopular"></span> 95 Comments                </a>
             </div>
@@ -1456,9 +1504,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/little-tiny-small-mammals-5182217-Aug2020/">Quiz: How much do you know about these small mammals?</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        18 hours ago                </span>
+                                        19 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>52,622 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>53,066 Views                </span>
                 <a href="https://www.thejournal.ie/little-tiny-small-mammals-5182217-Aug2020/#comments" title="Comment on Quiz: How much do you know about these small mammals?">
                     <span class="icon iconCommentPopular"></span> 16 Comments                </a>
             </div>
@@ -1479,9 +1527,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/phil-hogan-tanaiste-taoiseach-consider-position-5183244-Aug2020/">Golfgate: Taoiseach and Tánaiste ask Phil Hogan to ‘consider his position’ as EU Commissioner</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        18 hours ago                </span>
+                                        19 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>106,124 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>106,409 Views                </span>
                 <a href="https://www.thejournal.ie/phil-hogan-tanaiste-taoiseach-consider-position-5183244-Aug2020/#comments" title="Comment on Golfgate: Taoiseach and Tánaiste ask Phil Hogan to ‘consider his position’ as EU Commissioner">
                     <span class="icon iconCommentVeryPopular"></span> 253 Comments                </a>
             </div>
@@ -1502,9 +1550,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.the42.ie/leinster-munster-report-5183104-Aug2020/">Leinster have just enough class as injury-hit Munster push them all the way</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        18 hours ago                </span>
+                                        19 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>49,928 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>50,054 Views                </span>
                 <a href="https://www.the42.ie/leinster-munster-report-5183104-Aug2020/#comments" title="Comment on Leinster have just enough class as injury-hit Munster push them all the way">
                     <span class="icon iconCommentVeryPopular"></span> 100 Comments                </a>
             </div>
@@ -1525,9 +1573,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/evening-fix-saturday-38-5182953-Aug2020/">Here's What Happened Today: Saturday</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        20 hours ago                </span>
+                                        21 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>21,768 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>21,846 Views                </span>
                 <a href="https://www.thejournal.ie/evening-fix-saturday-38-5182953-Aug2020/#comments" title="Comment on Here's What Happened Today: Saturday">
                     <span class="icon iconComment"></span> No Comments                </a>
             </div>
@@ -1548,9 +1596,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/readme/maternity-services-choice-rural-ireland-5175007-Aug2020/">Opinion: 'For most women in rural Ireland there is no choice of maternity services'</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        20 hours ago                </span>
+                                        21 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>23,741 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>23,863 Views                </span>
                 <a href="https://www.thejournal.ie/readme/maternity-services-choice-rural-ireland-5175007-Aug2020/#comments" title="Comment on Opinion: 'For most women in rural Ireland there is no choice of maternity services'">
                     <span class="icon iconCommentPopular"></span> 13 Comments                </a>
             </div>
@@ -1571,15 +1619,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/passenger-locator-form-covid-19-5183124-Aug2020/">Covid-19 passenger locator form system to move to online process next week</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        21 hours ago                </span>
+                                        22 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>29,431 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>29,569 Views                </span>
                 <a href="https://www.thejournal.ie/passenger-locator-form-covid-19-5183124-Aug2020/#comments" title="Comment on Covid-19 passenger locator form system to move to online process next week">
-                    <span class="icon iconCommentVeryPopular"></span> 61 Comments                </a>
+                    <span class="icon iconCommentVeryPopular"></span> 62 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 It&#8217;s a legal requirement for people arriving in Ireland from overseas to complete a Covid-19 passenger locator form.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpassenger-locator-form-covid-19-5183124-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2Fairport-338-3-197x197.jpg&name=Covid-19+passenger+locator+form+system+to+move+to+online+process+next+week&description=It%E2%80%99s+a+legal+requirement+for+people+arriving+in+Ireland+from+overseas+to+complete+a+Covid-19+passenger+locator+form.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183124 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">46</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183124&text=Covid-19+passenger+locator+form+system+to+move+to+online+process+next+week+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183124"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
+        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpassenger-locator-form-covid-19-5183124-Aug2020%2F&picture=https%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2020%2F08%2Fairport-338-3-197x197.jpg&name=Covid-19+passenger+locator+form+system+to+move+to+online+process+next+week&description=It%E2%80%99s+a+legal+requirement+for+people+arriving+in+Ireland+from+overseas+to+complete+a+Covid-19+passenger+locator+form.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183124 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">47</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183124&text=Covid-19+passenger+locator+form+system+to+move+to+online+process+next+week+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183124"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="post post-https://www.the42.ie/live-latest-leinster-munster-5182927-Aug2020/  post-https://the42.ie/5182927">
         <div class="img span-3" style="">
@@ -1594,9 +1642,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.the42.ie/live-latest-leinster-munster-5182927-Aug2020/">As it happened: Leinster v Munster, Pro14</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        21 hours ago                </span>
+                                        22 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>109,789 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>109,899 Views                </span>
                 <a href="https://www.the42.ie/live-latest-leinster-munster-5182927-Aug2020/#comments" title="Comment on As it happened: Leinster v Munster, Pro14">
                     <span class="icon iconCommentVeryPopular"></span> 64 Comments                </a>
             </div>
@@ -1617,61 +1665,15 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2');
         <h4> <a href="https://www.thejournal.ie/greece-wildfire-mani-5183051-Aug2020/">Villages evacuated as over 100 firefighters battle wildfire in Greece's Mani peninsula</a></h4>
                     <div class="metadata">
                 <span class="date">
-                                        21 hours ago                </span>
+                                        22 hours ago                </span>
                 <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>21,065 Views                </span>
+                    <span class="red-views icon iconViewVeryPopular"></span>21,142 Views                </span>
                 <a href="https://www.thejournal.ie/greece-wildfire-mani-5183051-Aug2020/#comments" title="Comment on Villages evacuated as over 100 firefighters battle wildfire in Greece's Mani peninsula">
                     <span class="icon iconComment"></span> 3 Comments                </a>
             </div>
                 <p class="excerpt excerpt_holder">
                 Greece annually grapples wildfires during the dry summer season.        </p>
         <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fgreece-wildfire-mani-5183051-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fshutterstock_3021222-197x197.jpg&name=Villages+evacuated+as+over+100+firefighters+battle+wildfire+in+Greece%27s+Mani+peninsula&description=Greece+annually+grapples+wildfires+during+the+dry+summer+season.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183051 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">7</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183051&text=Villages+evacuated+as+over+100+firefighters+battle+wildfire+in+Greece%27s+Mani+peninsula+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183051"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
-</div>
-<div class="post post-https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/  post-https://jrnl.ie/5182848">
-        <div class="img span-3" style="">
-                <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/" style="width:230px; height:150px;"><img
-            data-original="https://img2.thejournal.ie/article/5182848/river?version=5182849&width=230"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="Coronavirus: Two deaths and 156 new cases in Ireland" /><noscript><img
-            src="https://img2.thejournal.ie/article/5182848/river?version=5182849&width=230" class="attachment-river_0" width="230" height="150" alt="Coronavirus: Two deaths and 156 new cases in Ireland" /></noscript></a>
-
-                            <a href="https://www.thejournal.ie/latest-figures/news/" class="tag">Latest Figures</a>
-                        </div>
-        <div class="text span-5 last">
-        <h4> <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">Coronavirus: Two deaths and 156 new cases in Ireland</a></h4>
-                    <div class="metadata">
-                <span class="date">
-                                        22 hours ago                </span>
-                <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>162,590 Views                </span>
-                <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/#comments" title="Comment on Coronavirus: Two deaths and 156 new cases in Ireland">
-                    <span class="icon iconCommentVeryPopular"></span> 291 Comments                </a>
-            </div>
-                <p class="excerpt excerpt_holder">
-                The latest figures were confirmed by health officials this evening.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fcoronavirus-latest-figures-ireland-12-5182848-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fhealth-308-2-2-197x197.jpg&name=Coronavirus%3A+Two+deaths+and+156+new+cases+in+Ireland&description=The+latest+figures+were+confirmed+by+health+officials+this+evening.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5182848 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">309</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5182848&text=Coronavirus%3A+Two+deaths+and+156+new+cases+in+Ireland+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5182848"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
-</div>
-<div class="post post-https://www.the42.ie/katie-taylor-v-delfine-persoon-4-5182707-Aug2020/  post-https://the42.ie/5182707">
-        <div class="img span-3" style="">
-        <span class="icon iconThe42">From The42</span>        <a href="https://www.the42.ie/katie-taylor-v-delfine-persoon-4-5182707-Aug2020/" style="width:230px; height:150px;"><img
-            data-original="https://img2.thejournal.ie/article/5182707/river?version=5182708&width=230"
-            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy attachment-river_0" width="230" height="150" style="width:230px; height:150px;" alt="For the first time, Taylor enters a fight with as much on the line for her as London 2012" /><noscript><img
-            src="https://img2.thejournal.ie/article/5182707/river?version=5182708&width=230" class="attachment-river_0" width="230" height="150" alt="For the first time, Taylor enters a fight with as much on the line for her as London 2012" /></noscript></a>
-
-                            <a href="https://www.thejournal.ie/legacy-at-stake/news/" class="tag">Legacy At Stake</a>
-                        </div>
-        <div class="text span-5 last">
-        <h4> <a href="https://www.the42.ie/katie-taylor-v-delfine-persoon-4-5182707-Aug2020/">For the first time, Taylor enters a fight with as much on the line for her as London 2012</a></h4>
-                    <div class="metadata">
-                <span class="date">
-                                        22 hours ago                </span>
-                <span class="views">
-                    <span class="red-views icon iconViewVeryPopular"></span>67,909 Views                </span>
-                <a href="https://www.the42.ie/katie-taylor-v-delfine-persoon-4-5182707-Aug2020/#comments" title="Comment on For the first time, Taylor enters a fight with as much on the line for her as London 2012">
-                    <span class="icon iconCommentPopular"></span> 16 Comments                </a>
-            </div>
-                <p class="excerpt excerpt_holder">
-                Scrutinous eyes not only from Ireland but from all corners of the globe will be on her performance tonight, the weight of the world on her shoulders.        </p>
-        <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.the42.ie%2Fkatie-taylor-v-delfine-persoon-4-5182707-Aug2020%2F&picture=https%3A%2F%2Fc0.thejournal.ie%2Fmedia%2F2020%2F08%2Fkatie-taylor-123-197x197.jpg&name=For+the+first+time%2C+Taylor+enters+a+fight+with+as+much+on+the+line+for+her+as+London+2012&description=Scrutinous+eyes+not+only+from+Ireland+but+from+all+corners+of+the+globe+will+be+on+her+performance+tonight%2C+the+weight+of+the+world+on+her+shoulders.&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5182707 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">6</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fthe42.ie%2F5182707&text=For+the+first+time%2C+Taylor+enters+a+fight+with+as+much+on+the+line+for+her+as+London+2012+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5182707"><span class="icon iconTwitter"></span> Tweet</a> </span>    </div>
 </div>
 <div class="paginate">
     <div class='wp-pagenavi'>
@@ -1762,53 +1764,53 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-1');
   <br>
   <p><b><i>Poll Results:</i></b></p>
 
-  <div id="j_p_piechart" class="j_p_piechart" data-options="&#x5B;&#x7B;&quot;question&quot;&#x3A;&quot;Fine&#x20;Gael&quot;,&quot;count&quot;&#x3A;3105,&quot;backgroundColour&quot;&#x3A;&quot;f76d6d&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Sinn&#x20;F&#x5C;u00e9in&quot;,&quot;count&quot;&#x3A;2615,&quot;backgroundColour&quot;&#x3A;&quot;f7b76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Not&#x20;sure&#x20;&#x5C;&#x2F;&#x20;I&#x20;wouldn&#x27;t&#x20;vote&quot;,&quot;count&quot;&#x3A;537,&quot;backgroundColour&quot;&#x3A;&quot;ebf76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Fianna&#x20;F&#x5C;u00e1il&quot;,&quot;count&quot;&#x3A;472,&quot;backgroundColour&quot;&#x3A;&quot;a0f76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Social&#x20;Democrats&quot;,&quot;count&quot;&#x3A;307,&quot;backgroundColour&quot;&#x3A;&quot;6df784&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Labour&quot;,&quot;count&quot;&#x3A;262,&quot;backgroundColour&quot;&#x3A;&quot;6df7d0&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Green&#x20;Party&quot;,&quot;count&quot;&#x3A;227,&quot;backgroundColour&quot;&#x3A;&quot;6dd2f7&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Independents&quot;,&quot;count&quot;&#x3A;216,&quot;backgroundColour&quot;&#x3A;&quot;6d86f7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Aont&#x5C;u00fa&quot;,&quot;count&quot;&#x3A;161,&quot;backgroundColour&quot;&#x3A;&quot;9d6df7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Solidarity&#x5C;&#x2F;People&#x20;Before&#x20;Profit&quot;,&quot;count&quot;&#x3A;155,&quot;backgroundColour&quot;&#x3A;&quot;e96df7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Other&quot;,&quot;count&quot;&#x3A;83,&quot;backgroundColour&quot;&#x3A;&quot;f76db9&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;&#x5D;"></div>
+  <div id="j_p_piechart" class="j_p_piechart" data-options="&#x5B;&#x7B;&quot;question&quot;&#x3A;&quot;Fine&#x20;Gael&quot;,&quot;count&quot;&#x3A;3428,&quot;backgroundColour&quot;&#x3A;&quot;f76d6d&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Sinn&#x20;F&#x5C;u00e9in&quot;,&quot;count&quot;&#x3A;2835,&quot;backgroundColour&quot;&#x3A;&quot;f7b76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Not&#x20;sure&#x20;&#x5C;&#x2F;&#x20;I&#x20;wouldn&#x27;t&#x20;vote&quot;,&quot;count&quot;&#x3A;582,&quot;backgroundColour&quot;&#x3A;&quot;ebf76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Fianna&#x20;F&#x5C;u00e1il&quot;,&quot;count&quot;&#x3A;522,&quot;backgroundColour&quot;&#x3A;&quot;a0f76d&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Social&#x20;Democrats&quot;,&quot;count&quot;&#x3A;325,&quot;backgroundColour&quot;&#x3A;&quot;6df784&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Labour&quot;,&quot;count&quot;&#x3A;287,&quot;backgroundColour&quot;&#x3A;&quot;6df7d0&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Green&#x20;Party&quot;,&quot;count&quot;&#x3A;239,&quot;backgroundColour&quot;&#x3A;&quot;6dd2f7&quot;,&quot;textColour&quot;&#x3A;&quot;505050&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Independents&quot;,&quot;count&quot;&#x3A;231,&quot;backgroundColour&quot;&#x3A;&quot;6d86f7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Aont&#x5C;u00fa&quot;,&quot;count&quot;&#x3A;181,&quot;backgroundColour&quot;&#x3A;&quot;9d6df7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Solidarity&#x5C;&#x2F;People&#x20;Before&#x20;Profit&quot;,&quot;count&quot;&#x3A;169,&quot;backgroundColour&quot;&#x3A;&quot;e96df7&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;,&#x7B;&quot;question&quot;&#x3A;&quot;Other&quot;,&quot;count&quot;&#x3A;89,&quot;backgroundColour&quot;&#x3A;&quot;f76db9&quot;,&quot;textColour&quot;&#x3A;&quot;ffffff&quot;&#x7D;&#x5D;"></div>
 
   <div class="j_p_legend">
 
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #f76d6d"></div>
-        <div class="j_p_legend_label">Fine Gael <span>(3105)</span></div>
+        <div class="j_p_legend_label">Fine Gael <span>(3428)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #f7b76d"></div>
-        <div class="j_p_legend_label">Sinn Féin <span>(2615)</span></div>
+        <div class="j_p_legend_label">Sinn Féin <span>(2835)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #ebf76d"></div>
-        <div class="j_p_legend_label">Not sure / I wouldn&#039;t vote <span>(537)</span></div>
+        <div class="j_p_legend_label">Not sure / I wouldn&#039;t vote <span>(582)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #a0f76d"></div>
-        <div class="j_p_legend_label">Fianna Fáil <span>(472)</span></div>
+        <div class="j_p_legend_label">Fianna Fáil <span>(522)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #6df784"></div>
-        <div class="j_p_legend_label">Social Democrats <span>(307)</span></div>
+        <div class="j_p_legend_label">Social Democrats <span>(325)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #6df7d0"></div>
-        <div class="j_p_legend_label">Labour <span>(262)</span></div>
+        <div class="j_p_legend_label">Labour <span>(287)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #6dd2f7"></div>
-        <div class="j_p_legend_label">Green Party <span>(227)</span></div>
+        <div class="j_p_legend_label">Green Party <span>(239)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #6d86f7"></div>
-        <div class="j_p_legend_label">Independents <span>(216)</span></div>
+        <div class="j_p_legend_label">Independents <span>(231)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #9d6df7"></div>
-        <div class="j_p_legend_label">Aontú <span>(161)</span></div>
+        <div class="j_p_legend_label">Aontú <span>(181)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #e96df7"></div>
-        <div class="j_p_legend_label">Solidarity/People Before Profit <span>(155)</span></div>
+        <div class="j_p_legend_label">Solidarity/People Before Profit <span>(169)</span></div>
       </div>
           <div class="j_p_legend_option clearfix">
         <div class="j_p_legend_color" style="background-color: #f76db9"></div>
-        <div class="j_p_legend_label">Other <span>(83)</span></div>
+        <div class="j_p_legend_label">Other <span>(89)</span></div>
       </div>
     
   </div>
@@ -1818,7 +1820,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-1');
 <p></p>                <br>
     
                 <div class="metadata">
-                <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpoll-election-party-5183397-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fcount-center-rds-825-2-197x197.jpg&name=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F&description=The+D%C3%A1il+has+been+recalled+as+the+government+faces+significant+pressure+over+the+golfgate+scandal.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183397 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">273</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183397&text=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183397"><span class="icon iconTwitter"></span> Tweet</a> </span><a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/#comments"><span class="icon iconCommentVeryPopular"></span> 272</a>                </div>
+                <span class="share"><a href="https://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=https%3A%2F%2Fwww.thejournal.ie%2Fpoll-election-party-5183397-Aug2020%2F&picture=https%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2020%2F08%2Fcount-center-rds-825-2-197x197.jpg&name=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F&description=The+D%C3%A1il+has+been+recalled+as+the+government+faces+significant+pressure+over+the+golfgate+scandal.+&message=&redirect_uri=https%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D5183397 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">285</span></a> <a href="https://twitter.com/share?url=https%3A%2F%2Fjrnl.ie%2F5183397&text=Poll%3A+Which+party+would+you+vote+for+if+there+was+a+general+election+tomorrow%3F+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-5183397"><span class="icon iconTwitter"></span> Tweet</a> </span><a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/#comments"><span class="icon iconCommentVeryPopular"></span> 281</a>                </div>
 
         </div>
     </div>
@@ -1839,7 +1841,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
     </div>
     <div class="widgetContent">
             <div class="post postMini postMiniOpinion">
-                        <img src="https://f1.thejournal.ie/media/2020/08/Caelainn-Hogan-credit-Ruth-Barry-133x133.jpg" height="60" width="60" alt="Caelainn Hogan" />
+                        <img src="https://f2.thejournal.ie/media/2020/08/Caelainn-Hogan-credit-Ruth-Barry-133x133.jpg" height="60" width="60" alt="Caelainn Hogan" />
                             <h5><a href="https://www.thejournal.ie/readme/caelinn-hogan-the-castle-5178051-Aug2020/">Caelainn Hogan: 'This institution for ‘unmarried mothers’ is not part of some distant past - it closed in 2006'</a></h5>
             <div class="byLine">By Caelainn Hogan</div>
             <p>
@@ -1855,7 +1857,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
             </p>
         </div>
                 <div class="post postMini postMiniOpinion">
-                        <img src="https://f0.thejournal.ie/media/2012/11/pic-larry-133x133.jpg" height="60" width="60" alt="Larry Donnelly" />
+                        <img src="https://f3.thejournal.ie/media/2012/11/pic-larry-133x133.jpg" height="60" width="60" alt="Larry Donnelly" />
                             <h5><a href="https://www.thejournal.ie/readme/us-elections-democrats-joe-kennedy-massachusetts-senate-5181853-Aug2020/">Opinion: Joe Kennedy fights for his family’s legacy in a 'nasty' campaign</a></h5>
             <div class="byLine">By Larry Donnelly - <a href="https://twitter.com/LarryPDonnelly">@LarryPDonnelly</a></div>
             <p>
@@ -1948,20 +1950,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
             <!-- Mini post -->
                             <div class="post postMini">
                     <div class="img">
-                        <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
-                            <img src="https://c0.thejournal.ie/media/2020/08/health-308-2-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                        </a>
-                    </div>
-                    <div class="text">
-                        <a href="/latest-figures/news/" class="tag">
-                            latest figures                        </a>
-                        <h5>
-                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
-                                Coronavirus: Two deaths and 156 new cases in Ireland                            </a>
-                        </h5>
-                    </div>
-                </div>
-                                <div class="post postMini">
-                    <div class="img">
                         <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/">
                             <img src="https://c0.thejournal.ie/media/2020/08/count-center-rds-825-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                        </a>
                     </div>
@@ -1971,6 +1959,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
                         <h5>
                             <a href="https://www.thejournal.ie/poll-election-party-5183397-Aug2020/">
                                 Poll: Which party would you vote for if there was a general election tomorrow?                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
+                            <img src="https://c0.thejournal.ie/media/2020/08/health-308-2-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                        </a>
+                    </div>
+                    <div class="text">
+                        <a href="/latest-figures/news/" class="tag">
+                            latest figures                        </a>
+                        <h5>
+                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
+                                Coronavirus: Two deaths and 156 new cases in Ireland                            </a>
                         </h5>
                     </div>
                 </div>
@@ -2044,20 +2046,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
                 </div>
                                 <div class="post postMini">
                                             <div class="img">
-                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
-                                <img src="https://c0.thejournal.ie/media/2020/08/health-308-2-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                            </a>
-                        </div>
-                                            <div class="text">
-                        <a href="/latest-figures/news/" class="tag">
-                            latest figures                        </a>
-                        <h5>
-                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
-                                Coronavirus: Two deaths and 156 new cases in Ireland                            </a>
-                        </h5>
-                    </div>
-                </div>
-                                <div class="post postMini">
-                                            <div class="img">
                             <a href="https://www.thejournal.ie/phil-hogan-eu-commissioner-2-5183378-Aug2020/">
                                 <img src="https://c2.thejournal.ie/media/2020/08/agricultural-conference-in-hanover-4-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                            </a>
                         </div>
@@ -2067,6 +2055,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
                         <h5>
                             <a href="https://www.thejournal.ie/phil-hogan-eu-commissioner-2-5183378-Aug2020/">
                                 Golfgate: EU Commissioner Phil Hogan issues ‘fulsome and profound apology’                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
+                                <img src="https://c0.thejournal.ie/media/2020/08/health-308-2-2-80x50.jpg" class="attachment-listings_1" width="80" height="50" />                            </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/latest-figures/news/" class="tag">
+                            latest figures                        </a>
+                        <h5>
+                            <a href="https://www.thejournal.ie/coronavirus-latest-figures-ireland-12-5182848-Aug2020/">
+                                Coronavirus: Two deaths and 156 new cases in Ireland                            </a>
                         </h5>
                     </div>
                 </div>
@@ -2190,7 +2192,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
             <table>
                 <tr>
                     <td class="footer_lo_avatar">
-                        <a href="https://www.thejournal.ie/author/caelainn-hogan/"><img src="https://f1.thejournal.ie/media/2020/08/Caelainn-Hogan-credit-Ruth-Barry-133x133.jpg" alt="Caelainn Hogan" width="60" height="60"  class="footer_lo_avatar" /></a>
+                        <a href="https://www.thejournal.ie/author/caelainn-hogan/"><img src="https://f2.thejournal.ie/media/2020/08/Caelainn-Hogan-credit-Ruth-Barry-133x133.jpg" alt="Caelainn Hogan" width="60" height="60"  class="footer_lo_avatar" /></a>
                     </td>
                     <td class="footer_lo_article">
                         <a href="https://www.thejournal.ie/readme/caelinn-hogan-the-castle-5178051-Aug2020/" class="article">Caelainn Hogan: 'This institution for ‘unmarried mothers’ is not part of some distant past - it closed in 2006'</a><br />
@@ -2241,7 +2243,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0');
         <!-- Footer -->
         <div class="footer background">
             <div id="server_identifier">
-                <span title="Rendered at 2020-08-23 16:27:14 Europe/Dublin +0100 DST:0 on 0d3124753f7ebe23e.thejournal.ie.aws.loc">
+                <span title="Rendered at 2020-08-23 17:05:20 Europe/Dublin +0100 DST:0 on 00ea48830832c1b22.thejournal.ie.aws.loc">
                                             &#8734;
                                         </span>
             </div>

@@ -29,7 +29,7 @@ for webpage in webpage_list:
             print("This article is more", Fore.RED + "negative" + Style.RESET_ALL)
         else:
             print("This article is more",Fore.GREEN + "positive" + Style.RESET_ALL)
-        print(TextBlob(body).sentiment.polarity)
+        print(TextBlob(body).sentiment)
         print()
 
     #Irish independent
@@ -45,7 +45,7 @@ for webpage in webpage_list:
             print("This article is more", Fore.RED + "negative" + Style.RESET_ALL)
         else:
             print("This article is more",Fore.GREEN + "positive" + Style.RESET_ALL)
-        print(TextBlob(body).sentiment.polarity)
+        print(TextBlob(body).sentiment)
         print()
 
     #Irish Examiner
@@ -61,7 +61,7 @@ for webpage in webpage_list:
             print("This article is more", Fore.RED + "negative" + Style.RESET_ALL)
         else:
             print("This article is more",Fore.GREEN + "positive" + Style.RESET_ALL)
-        print(TextBlob(body).sentiment.polarity)
+        print(TextBlob(body).sentiment)
         print()
 
     #The Journal
@@ -77,7 +77,7 @@ for webpage in webpage_list:
             print("This article is more", Fore.RED + "negative" + Style.RESET_ALL)
         else:
             print("This article is more",Fore.GREEN + "positive" + Style.RESET_ALL)
-        print(TextBlob(body).sentiment.polarity)
+        print(TextBlob(body).sentiment)
         print()
 
 
