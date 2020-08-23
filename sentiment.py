@@ -5,7 +5,7 @@ import colorama
 from colorama import Fore, Back, Style
 
 #Scraper
-webpage_list = ['https://www.irishtimes.com/', 'https://www.independent.ie/', 'https://www.irishexaminer.com/', 'https://www.thejournal.ie/']
+webpage_list = ['https://www.irishtimes.com/', 'https://www.independent.ie/', 'https://www.irishexaminer.com/', 'https://www.thejournal.ie/', 'http://www.irishnews.com/']
 
 sensitivity = 0.4
 for webpage in webpage_list:
@@ -70,6 +70,22 @@ for webpage in webpage_list:
         article = soup.find('div', class_='primary span-8')
         body = article.find('h1').text.strip()
         link = (article.find('div', class_='img').a['href']).strip()
+        print(newspaper)
+        print(body)
+        print(link)
+        if TextBlob(body).sentiment.polarity < sensitivity:
+            print("This article is more", Fore.RED + "negative" + Style.RESET_ALL)
+        else:
+            print("This article is more",Fore.GREEN + "positive" + Style.RESET_ALL)
+        print(TextBlob(body).sentiment)
+        print()
+
+    #The Irish News
+    if webpage_list.index(webpage) == 4:
+        newspaper = 'The Irish News'
+        article = soup.find('article', class_="col-md-8 col-md-push-4 lead-story")
+        body = article.find('h1', class_='lancio-title').text.strip()
+        link = 'http://www.irishnews.com' + (article.find('h1', class_='lancio-title').a['href']).strip()
         print(newspaper)
         print(body)
         print(link)
